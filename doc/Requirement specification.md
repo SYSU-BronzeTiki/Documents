@@ -26,10 +26,13 @@
 
 用户注册登陆，登陆后可以修改个人信息，如个人昵称，个人签名等
 
-![login](.\..\image\login.png)
+![login](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/login.png)
 
 用户登陆之后，可以使用应用的搜索功能，通过输入搜索字，可以获取到与搜索词相关联的电影信息，
 
 ，同时用户还会接收到当前正在上映的电影以及系统推荐的电影。
 
-![movie_detail](.\..\image\movie_detail.png)
+![movie_detail](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/movie_detail.png)
+
+用户在选定一部正在上映的电影后，通过选定电影院，场次，座位号来生成电影票订单
+
