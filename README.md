@@ -3,10 +3,10 @@
 
 * [About](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/About.md)
 * [Team profile](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Team%20profile.md)
-* [Investigation(待完成)]()
+* [Investigation(待完成)](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Investigation.md)
 * [Vision](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Vision.md)
 * [Product backlog](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Product%20Backlog.md)
-* [Meeting recording(待完成)]()
+* [Meeting recording(待完成)](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Meeting%20recording.md)
 
 
 
