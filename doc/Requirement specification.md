@@ -34,5 +34,12 @@
 
 ![movie_detail](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/movie_detail.png)
 
-用户在选定一部正在上映的电影后，通过选定电影院，场次，座位号来生成电影票订单
+用户在选定一部正在上映的电影后，通过选定电影院，场次，座位号来生成电影票订单，同时，利用微信提供的接口，完成支付。
 
+![buy_ticket](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/buy_ticket.png)
+
+
+
+用户可以对一部电影进行评分并参加电影内容的相关讨论，也可以发表个人的评论。
+
+![comment](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/comment.png)
