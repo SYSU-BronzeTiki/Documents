@@ -37,6 +37,9 @@
 
 ### 3. 代码规范
 
-* 前端代码规范参考：[前端代码规范及最佳实践|ISOBAR](https://coderlmn.github.io/code-standards/)
+
+* 前端代码规范参考：前端代码规范部分，我们将采用Isobar公司的创意技术部（前端工程）开发web应用的规范。
+
+	+ [前端代码规范及最佳实践|ISOBAR](https://coderlmn.github.io/code-standards/)
 
 （待完善）
