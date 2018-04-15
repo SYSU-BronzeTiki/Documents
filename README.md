@@ -3,14 +3,16 @@
 
 * [About](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/About.md)
 * [Team profile](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Team%20profile.md)
-* [Investigation(完善中)](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Investigation.md)
+* [Investigation](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Investigation.md)
+	+ 进行中
 * [Vision](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Vision.md)
 * [Product backlog](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Product%20Backlog.md)
 * [Requirement specification](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md)
 * [Design](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Design.md)
 * [Production specifications and guidelines](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
-* [Meeting recording(完善中)](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Meeting%20recording.md)
-* [Tech/Work Report]()
+* [Meeting recording](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Meeting%20recording.md)
+* [Tech/Work Report](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Tech%26Work%20report)
+	+ 未完善
 
 
 
