@@ -35,4 +35,8 @@
 
 * Kanban任务每周更新一次。
 
-### 3. 代码规范（完善中）
+### 3. 代码规范
+
+* 前端代码规范参考：[前端代码规范及最佳实践|ISOBAR](https://coderlmn.github.io/code-standards/)
+
+（待完善）
