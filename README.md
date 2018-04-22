@@ -13,7 +13,6 @@
 * [About（项目规划）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/About.md)
 * [Team profile（团队组建）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Team%20profile.md)
 * [Investigation（项目前期调研）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Investigation.md)
-	+ 进行中
 * [Vision（项目愿景）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Vision.md)
 * [Product backlog（产品特性）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Product%20Backlog.md)
 * [Requirement specification（需求规格说明）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md)
