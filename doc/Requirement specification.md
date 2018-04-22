@@ -55,7 +55,7 @@
 
 #### 2.3.3 编制一些brief的用例
 
-[Brief use case](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Use%20Cases/CasualUseCaseAndBriefUseCase.md)
+[Brief use case](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md#231-%E4%BD%BF%E7%94%A8-ui-free%E9%A3%8E%E6%A0%BC%E7%BC%96%E5%88%B6%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A8%E6%88%B7%E7%9B%AE%E6%A0%87%E7%BA%A7%E5%88%AB%E7%94%A8%E4%BE%8B)
 
 
 
