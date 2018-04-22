@@ -26,11 +26,13 @@
 
 用户注册登陆，登陆后可以修改个人信息，如个人昵称，个人签名等
 
+
 ![login](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/login.png)
 
 用户登陆之后，可以使用应用的搜索功能，通过输入搜索字，可以获取到与搜索词相关联的电影信息，
 
 ，同时用户还会接收到当前正在上映的电影以及系统推荐的电影。
+
 
 ![movie_detail](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/movie_detail.png)
 
@@ -39,7 +41,21 @@
 ![buy_ticket](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/buy_ticket.png)
 
 
-
 用户可以对一部电影进行评分并参加电影内容的相关讨论，也可以发表个人的评论。
 
 ![comment](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/comment.png)
+
+#### 2.3.1 使用 UI-free风格编制一个完整的用户目标级别用例
+
+[Full use case](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Use%20Cases/UC1(full).md)
+
+#### 2.3.2 编制一些非正式的 casual 用例
+
+[Casual use cases](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Use%20Cases/CasualUseCaseAndBriefUseCase.md)
+
+#### 2.3.3 编制一些brief的用例
+
+[Brief use case](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Use%20Cases/CasualUseCaseAndBriefUseCase.md)
+
+
+
