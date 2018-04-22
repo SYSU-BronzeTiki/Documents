@@ -8,6 +8,8 @@
 |  陈晓锋（外援）  | 15336017 |    分布式部署、数据库工程师    |          |
 |  吴梓溢（外援）  | 16340243 | 静态文件服务、后台部分交互逻辑 |          |
 
+---
+
 ## Lesson-3 & Lesson-5 Docs
 
 * [About（项目规划）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/About.md)
@@ -22,7 +24,11 @@
 * [Tech/Work Report（工作报告）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Tech%26Work%20report)
 	+ 未完善
 	
+## Lesson-6 Docs
 
+* [Use Cases（用例）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md#231-%E4%BD%BF%E7%94%A8-ui-free%E9%A3%8E%E6%A0%BC%E7%BC%96%E5%88%B6%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A8%E6%88%B7%E7%9B%AE%E6%A0%87%E7%BA%A7%E5%88%AB%E7%94%A8%E4%BE%8B)
+
+---
 
 ## 文档索引目录
 
@@ -30,5 +36,3 @@
 * [协作规范文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
 * [需求规格说明文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
 * [设计文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Design.md)
-
-
