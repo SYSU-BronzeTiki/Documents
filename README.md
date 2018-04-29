@@ -22,7 +22,7 @@
 * [Production specifications and guidelines（生产规范和指南）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
 * [Meeting recording（会议记录）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Meeting%20recording.md)
 * [Tech/Work Report（工作报告）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Tech%26Work%20report)
-	+ 未完善
+
 	
 ## Lesson-6 Docs
 
