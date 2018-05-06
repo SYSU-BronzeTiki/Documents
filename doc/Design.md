@@ -46,7 +46,8 @@ by Johnyvino](https://www.uplabs.com/posts/movie-ticket-lovers-family-friends-se
 
 * [链接]()
 
-### 2.3 API设计
+
+## 3. API设计
 
 * [API设计文档](https://bronzetiki.docs.apiary.io/#reference/0/2)
 
