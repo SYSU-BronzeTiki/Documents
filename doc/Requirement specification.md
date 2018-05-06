@@ -59,3 +59,13 @@
 
 
 
+### 领域建模
+
+[领域建模](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/domain_model.md)
+
+### 状态模型
+因为的业务流程比较简单，所以我们仅根据产品的主业务即选座购票业务流程进行状态建模。
+状态集合有：{未选定电影，未选定场次，未选定座位，生成订单，未支付，支付成功，生成发票}
+状态图如下:
+
+![selectAndbook](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/state/selectAndbook.png)
