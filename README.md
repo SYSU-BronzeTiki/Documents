@@ -34,9 +34,9 @@
 
 * 7 [Design（设计）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Design.md)
 
-	+ 7.1 [UI Design](https://github.com/SYSU-BronzeTiki/Documents/tree/master/doc#1-ui%E8%AE%BE%E8%AE%A1)
+	+ 7.1 [UI Design](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Design.md#1-ui%E8%AE%BE%E8%AE%A1)
 
-	+ 7.2 [Database Design](https://github.com/SYSU-BronzeTiki/Documents/tree/master/doc#2-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1)
+	+ 7.2 [Database Design](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Design.md#2-%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1)
 
 	+ 7.3 [API Design](https://bronzetiki.docs.apiary.io/#reference/0)
 
