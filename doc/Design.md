@@ -21,18 +21,21 @@ by Johnyvino](https://www.uplabs.com/posts/movie-ticket-lovers-family-friends-se
 
 ![movies_list](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/movies_list.png)
 
-### 1.2.2 放映时间
+#### 1.2.2 放映时间
 
 ![time_select](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/time_select.png)
 
-### 1.2.3 影院选择
+#### 1.2.3 影院选择
 
 ![cinema_select](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/cinema_select.png)
 
-### 1.2.4 座位选择
+#### 1.2.4 座位选择
 
 ![seat_select](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/seat_select.png)
 
+#### 1.2.5 用户个人中心
+
+![personal_info](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/personal_info.png)
 
 ## 2. 数据库设计
 
