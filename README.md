@@ -50,14 +50,3 @@
 
 * 10 [Tech/Work Report（工作报告）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Tech%26Work%20report)
 
-
-
-
----
-
-## 文档索引目录
-
-* [项目规划文档](https://github.com/SYSU-BroneTiki/Documents/blob/master/doc/About.md)
-* [协作规范文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
-* [需求规格说明文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
-* [设计文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Design.md)
