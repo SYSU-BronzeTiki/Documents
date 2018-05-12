@@ -40,6 +40,8 @@
 
 	+ 7.3 [API Design](https://bronzetiki.docs.apiary.io/#reference/0)
 
+		- 7.3.1 [API接口说明书](https://www.showdoc.cc/web/#/67895844684111)
+
 * 8 [Production specifications and guidelines（生产规范和指南）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
 
 	+ 8.1 [代码规范](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md#2-%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
