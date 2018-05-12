@@ -75,3 +75,11 @@
 状态图如下:
 
 ![selectAndbook](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/state/selectAndbook.png)
+
+### 2.6 系统功能模型
+在这一部分，我们主要对系统的核心功能下订单和支付进行了功能建模，具体的SSD如下：
+#### 下订单（由15331328制作）
+![make_reservation](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/SSD/makeNewOrder-SSD.png)
+
+#### 支付（由15331320制作）
+![make_reservation](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/SSD/pay_sequence.png)
