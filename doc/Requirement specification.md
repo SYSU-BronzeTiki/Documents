@@ -79,8 +79,10 @@
 ### 2.6 系统功能模型
 在这一部分，我们主要对系统的核心功能下订单和支付进行了功能建模，具体的SSD如下：
 
+#### 2.6.1 下订单（by 15331328）
 
+!(make_new_order)(https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/SSD/make_new_order_SSD.png)
 
-#### 2.6.2 支付（由15331320制作）
+#### 2.6.2 支付（by 15331320）
 
 ![make_reservation](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/SSD/pay_sequence.png)
