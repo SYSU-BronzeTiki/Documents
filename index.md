@@ -25,6 +25,8 @@ layout: default
 	+ 6.3 [Domiian Model（领域模型）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md#24-%E9%A2%86%E5%9F%9F%E5%BB%BA%E6%A8%A1)
 
 	+ 6.4 [State Model（状态模型）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md#25-%E7%8A%B6%E6%80%81%E6%A8%A1%E5%9E%8B)
+	
+	+ 6.5 [System Sequence Diagram（功能模型）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md#26-%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9E%8B)
 
 * 7 [Design（设计）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Design.md)
 
@@ -44,3 +46,4 @@ layout: default
 
 * 10 [Tech/Work Report（工作报告）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Tech%26Work%20report)
 
+* 11 课程格子建模练习
