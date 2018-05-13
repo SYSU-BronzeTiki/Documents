@@ -37,9 +37,7 @@ layout: default
 * 9 [Meeting recording（会议记录）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Meeting%20recording.md)
 * 10 [Tech/Work Report（工作报告）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Tech%26Work%20report)
 * 11 课程格子建模练习
-  + 11.1 [课程格子应用文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90)
-  
-  + 11.2 [建模要求](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E5%BB%BA%E6%A8%A1%E8%A6%81%E6%B1%82)
-  
-  + 11.3 [建模者答案与评价](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E5%BB%BA%E6%A8%A1%E8%80%85URL%E5%8F%8A%E8%AF%84%E4%BB%B7.md)
-  
+  * 11.1 [课程格子应用文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90)
+  * 11.2 [建模要求](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E5%BB%BA%E6%A8%A1%E8%A6%81%E6%B1%82)
+  * 11.3 [建模者答案与评价](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E5%BB%BA%E6%A8%A1%E8%80%85URL%E5%8F%8A%E8%AF%84%E4%BB%B7.md)
+
