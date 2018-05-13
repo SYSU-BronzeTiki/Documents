@@ -54,3 +54,5 @@ by Johnyvino](https://www.uplabs.com/posts/movie-ticket-lovers-family-friends-se
 
 * [API设计文档](https://bronzetiki.docs.apiary.io/#reference/0/2)
 
+* [API说明书](https://www.showdoc.cc/web/#/67895844684111)
+
