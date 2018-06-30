@@ -44,6 +44,8 @@ layout: default
 
   + 7.4 [Software Architecture Document](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Software_Architecture_Document.md)
 
+  + 7.5 [Usecase's ECB](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/UC-ECB.md)
+
 * 8 [Production specifications and guidelines（生产规范和指南）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
 
   + 8.1 [代码规范](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md#2-%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
