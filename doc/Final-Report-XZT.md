@@ -11,6 +11,7 @@
 ## 2. PSP 2.1
 
 | PSP2.1           | Time(%) |
+|  - | - |
 | Planing          | 3       |
 | -Estimate        |    3    | 
 | Development      | 90      |
