@@ -53,8 +53,9 @@ layout: default
 * 8 [Production specifications and guidelines（生产规范和指南）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
 
   + 8.1 [代码规范](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md#2-%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
-
   + 8.2 [REST API规范](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md#3-rest-api%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83)
+  + 8.3 [解释框架目录设计与逻辑架构与 ECB 的关系 ](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/relationship.md)
+  + 8.4 [Readme](https://github.com/SYSU-BronzeTiki/BronzeTiki-FE)
 
 * 9 [Meeting recording（会议记录）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Meeting%20recording.md)
 
@@ -71,5 +72,6 @@ layout: default
 * Final Report
 
   + [15331328-Final-Repost-xzt](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Final-Report-XZT.md)
+  + [15331320-Final-Report-wzh](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Final-Report-WZH.md)
 
   
