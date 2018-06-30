@@ -15,3 +15,19 @@
 #### 1.2 类图
 
 ![类图_1](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/ECB/ECB-UC1-2.png)
+
+
+### 2. UC2 支付订单
+
+* 查看订单列表
+* 选择订单
+* 支付订单
+
+#### 2.1 顺序图
+
+![顺序图_2](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/ECB/ECB-UC2-1.png)
+
+#### 2.2 类图
+
+![类图_2](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/ECB/ECB-UC2-2.png)
+
