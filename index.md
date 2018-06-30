@@ -44,7 +44,11 @@ layout: default
 
   + 7.4 [Software Architecture Document](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Software_Architecture_Document.md)
 
-  + 7.5 [Usecase's ECB](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/UC-ECB.md)
+  + 7.5 [Usecase Design](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/UC-ECB.md)
+
+    - 7.5.1 用例1
+
+    - 7.5.2 用例2
 
 * 8 [Production specifications and guidelines（生产规范和指南）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Production%20specifications%20and%20guidelines.md)
 
@@ -58,8 +62,14 @@ layout: default
 
 * 11 课程格子建模练习
 
-  * 11.1 [课程格子应用文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90)
+  + 11.1 [课程格子应用文档](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90)
 
-  * 11.2 [建模要求](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E5%BB%BA%E6%A8%A1%E8%A6%81%E6%B1%82)
+  + 11.2 [建模要求](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E5%BB%BA%E6%A8%A1%E8%A6%81%E6%B1%82)
 
-  * 11.3 [建模者答案与评价](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E5%BB%BA%E6%A8%A1%E8%80%85URL%E5%8F%8A%E8%AF%84%E4%BB%B7.md)
+  + 11.3 [建模者答案与评价](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/%E5%BB%BA%E6%A8%A1%E8%80%85URL%E5%8F%8A%E8%AF%84%E4%BB%B7.md)
+
+* Final Report
+
+  + [15331328-Final-Repost-xzt](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Final-Report-XZT.md)
+
+  
