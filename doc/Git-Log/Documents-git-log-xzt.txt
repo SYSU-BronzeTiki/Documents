@@ -1,0 +1,231 @@
+cb36b06 update ECB-UC1 png
+ image/ECB/ECB-UC1.png | Bin 36388 -> 31502 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+1923225 Add Usecase-ECB document
+ doc/UC-ECB.md | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+ed64d32 Update ECB diagram
+ image/ECB/ECB-UC1-2.png | Bin 0 -> 30948 bytes
+ image/ECB/ECB-UC1.png   | Bin 0 -> 36388 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+4f227dc 更新软件架构文档
+ doc/Software_Architecture_Document.md | 51 +++++++++++++++++++++++++++++++++++
+ 1 file changed, 51 insertions(+)
+a6aef80 更新索引目录
+ index.md | 60 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 60 insertions(+)
+24e2101 Merge branch 'master' of https://github.com/SYSU-BronzeTiki/Documents
+2fadb84 更新SAD视图
+ image/SAD/logic.png  | Bin 0 -> 35216 bytes
+ image/SAD/physic.png | Bin 0 -> 12058 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+b773c7b 增加系统功能建模-下订单
+ doc/Requirement specification.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+7d27fde 增加下订单系统顺序图
+ image/SSD/makeNewOrder-SSD.png   | Bin 18108 -> 0 bytes
+ image/SSD/make_new_order_SSD.png | Bin 0 -> 18108 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+eeec0c1 修改系统功能建模
+ doc/Requirement specification.md | 7 ++++---
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+6015099 Merge branch 'master' of https://github.com/SYSU-BronzeTiki/Documents
+fa1d932 增加API说明书链接
+ doc/Design.md | 2 ++
+ 1 file changed, 2 insertions(+)
+956042b 增加API接口说明文档
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+1cee29e 更新系统顺序图
+ image/SSD/makeNewOrder-SSD.png | Bin 0 -> 18108 bytes
+ image/SSD/pay_sequence.png     | Bin 0 -> 33961 bytes
+ image/pay_sequence.png         | Bin 33961 -> 0 bytes
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+664f0e0 更新文档链接
+ README.md | 11 -----------
+ 1 file changed, 11 deletions(-)
+76b59c7 订正部分文档链接
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+307c121 更新UI设计图
+ doc/Design.md | 9 ++++++---
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+da9caa3 增加用户个人中心界面参考图
+ image/UI/personal_info.png | Bin 0 -> 374005 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+24dc78b 更新文档目录
+ README.md | 50 +++++++++++++++++++++++++++++++++-----------------
+ 1 file changed, 33 insertions(+), 17 deletions(-)
+0022e99 修正标号
+ doc/Design.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+f3a2b2d 更新设计文档，新增API设计
+ doc/Design.md | 34 ++++++++++++++++++++++++++--------
+ 1 file changed, 26 insertions(+), 8 deletions(-)
+7fbce9a 更新代码规范
+ doc/Production specifications and guidelines.md | 29 ++++++++++++-------------
+ 1 file changed, 14 insertions(+), 15 deletions(-)
+85a159d 更新代码规范
+ doc/Production specifications and guidelines.md | 27 +++++++++++++------------
+ 1 file changed, 14 insertions(+), 13 deletions(-)
+6ad3855 更新需求规格说明文档
+ doc/Requirement specification.md | 10 ++++++++--
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+b2b58d3 增加Lesson-7作业链接
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+f5a9c97 增加Lesson-7作业链接
+ README.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+d99372a 增加数据库设计文档
+ doc/database-design.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+90daff6 增加数据库设计图
+ image/database/Logic-ER.png     | Bin 0 -> 111413 bytes
+ image/database/Physic-Model.png | Bin 0 -> 52666 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+d77f8b3 Update link.
+ doc/Requirement specification.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+8a77602 Update links.
+ README.md | 8 ++++++--
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+6971c1a Update README.md
+ README.md | 1 -
+ 1 file changed, 1 deletion(-)
+65fdf6b Add some use cases.
+ doc/Requirement specification.md | 20 ++++++++++++++++++--
+ 1 file changed, 18 insertions(+), 2 deletions(-)
+02e3a41 Shift file path.
+ doc/CasualUseCaseAndBriefUseCase.md           | 27 ---------------------------
+ doc/Use Cases/CasualUseCaseAndBriefUseCase.md | 27 +++++++++++++++++++++++++++
+ 2 files changed, 27 insertions(+), 27 deletions(-)
+c700976 Add a full use case.
+ doc/Use Cases/UC1(full).md | 126 +++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 126 insertions(+)
+2c79be0 Update README.md
+ README.md | 22 +++++++++++-----------
+ 1 file changed, 11 insertions(+), 11 deletions(-)
+d1b3c24 Merge branch 'master' of https://github.com/SYSU-BronzeTiki/Documents
+b153542 Update README.md
+ README.md | 9 +++++++++
+ 1 file changed, 9 insertions(+)
+2638b3c Update README.md
+ README.md | 8 +++++---
+ 1 file changed, 5 insertions(+), 3 deletions(-)
+d43b02c Add Tech&Work report.
+ doc/Tech&Work report | 3 +++
+ 1 file changed, 3 insertions(+)
+122ba0c Update About.md.
+ doc/About.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+052ba35 更新文档链接
+ README.md                                       | 8 ++++----
+ doc/Production specifications and guidelines.md | 5 ++++-
+ 2 files changed, 8 insertions(+), 5 deletions(-)
+fdef7cb 增加前端代码规范参考
+ doc/Production specifications and guidelines.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+ac3fce9 Update Design.md.
+ doc/Design.md | 9 ++++-----
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+15d5418 更新UI设计部分
+ doc/Design.md | 29 ++++++++++++++++++++++++++++-
+ 1 file changed, 28 insertions(+), 1 deletion(-)
+f43ae67 UI图片分类
+ image/UI/cinema_select.png | Bin 0 -> 55733 bytes
+ image/UI/movies_list.png   | Bin 0 -> 64047 bytes
+ image/UI/seat_select.png   | Bin 0 -> 53581 bytes
+ image/UI/time_select.png   | Bin 0 -> 60793 bytes
+ image/cinema_select.png    | Bin 55733 -> 0 bytes
+ image/movies_list.png      | Bin 64047 -> 0 bytes
+ image/seat_select.png      | Bin 53581 -> 0 bytes
+ image/time_select.png      | Bin 60793 -> 0 bytes
+ 8 files changed, 0 insertions(+), 0 deletions(-)
+72544a3 Rename image.
+ image/select_time.png | Bin 60793 -> 0 bytes
+ image/time_select.png | Bin 0 -> 60793 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+25c5672 更新UI设计图
+ image/cinema_select.png | Bin 0 -> 55733 bytes
+ image/movies_list.png   | Bin 0 -> 64047 bytes
+ image/seat_select.png   | Bin 0 -> 53581 bytes
+ image/select_time.png   | Bin 0 -> 60793 bytes
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+572941c 更新设计文档
+ doc/Design.md | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+8c3419f 更新文档链接
+ README.md | 8 ++++++--
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+1713a1f Merge branch 'master' of https://github.com/SYSU-BronzeTiki/Documents
+5880925 增加设计文档
+ doc/Design.md | 3 +++
+ 1 file changed, 3 insertions(+)
+c8b035f 更新生产规范与指南文档
+ doc/Production specifications and guidelines.md | 38 +++++++++++++++++++++++++
+ 1 file changed, 38 insertions(+)
+9bc1507 Update Investigation & Meeting recording & README
+ README.md                | 4 ++--
+ doc/Investigation.md     | 1 +
+ doc/Meeting recording.md | 1 +
+ 3 files changed, 4 insertions(+), 2 deletions(-)
+296bfaf Update Meeting recording
+ doc/Meeting recording.md  | 0
+ doc/Meeting recording.txt | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+82f526d Update Investigation & Meeting recording & README
+ README.md                 | 17 +++++++++++++++--
+ doc/Investigation.md      |  0
+ doc/Meeting recording.txt |  0
+ 3 files changed, 15 insertions(+), 2 deletions(-)
+f6c7ea2 Merge branch 'master' of https://github.com/SYSU-BronzeTiki/Documents
+59a5bea Update Product Backlog.md
+ doc/Product Backlog.md | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+566d5af Update docs.
+ doc/Product Backlog.md           | 0
+ doc/Requirement specification.md | 1 +
+ 2 files changed, 1 insertion(+)
+48ff76c Rename docs.
+ doc/Team profile.md                                | 18 ++++++++++++++++++
+ doc/Team_profile.md                                | 18 ------------------
+ ...215\217\344\275\234\350\247\204\350\214\203.md" | 22 ----------------------
+ 3 files changed, 18 insertions(+), 40 deletions(-)
+50a457c Rename Github协作规范.md & Update Requirement specification.md
+ ...215\217\344\275\234\350\247\204\350\214\203.md" | 22 ++++++++++++++++++++++
+ doc/Requirement specification.md                   |  0
+ 2 files changed, 22 insertions(+)
+0972d74 Update About.md
+ doc/About.md | 24 ++++++++++++++----------
+ 1 file changed, 14 insertions(+), 10 deletions(-)
+cc20f05 Update About.md
+ doc/About.md | 19 ++++++++++++++-----
+ 1 file changed, 14 insertions(+), 5 deletions(-)
+cc4dca7 Update README.md
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+a56e164 Update doc
+ README.md    |  2 ++
+ doc/About.md | 24 ++++++++++++++++++++++++
+ 2 files changed, 26 insertions(+)
+87e7dbc Update README.md
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+d6bc666 Rename 协作规范.md to doc/协作规范.md
+ ...215\217\344\275\234\350\247\204\350\214\203.md" | 22 ++++++++++++++++++++++
+ ...215\217\344\275\234\350\247\204\350\214\203.md" | 22 ----------------------
+ 2 files changed, 22 insertions(+), 22 deletions(-)
+547918a Create About.md
+ doc/About.md | 1 +
+ 1 file changed, 1 insertion(+)
+70c55c6 Update README.md
+ README.md                                             | 5 +++++
+ "\345\215\217\344\275\234\350\247\204\350\214\203.md" | 4 +++-
+ 2 files changed, 8 insertions(+), 1 deletion(-)
+0dc912a 协作规范
+ "\345\215\217\344\275\234\350\247\204\350\214\203.md" | 1 +
+ 1 file changed, 1 insertion(+)
+c2f2fde Github协作规范
+ "\345\215\217\344\275\234\350\247\204\350\214\203.md" | 19 +++++++++++++++++++
+ 1 file changed, 19 insertions(+)

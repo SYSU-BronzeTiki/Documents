@@ -1,0 +1,383 @@
+171f566 Merge branch 'dev' of https://github.com/SYSU-BronzeTiki/BronzeTiki-FE into dev
+4fc7e5c bug修复
+ src/pages/home/components/MovieList.vue |  3 ++-
+ src/pages/movie/MovieDetail.vue         | 12 +++++++++---
+ src/pages/order/OrderConfirm.vue        |  2 --
+ src/pages/order/OrderList.vue           |  3 ++-
+ 4 files changed, 13 insertions(+), 7 deletions(-)
+de56778 完善接口
+ src/pages/home/components/List.vue      | 96 ---------------------------------
+ src/pages/home/components/MovieList.vue |  6 +--
+ src/pages/movie/MovieDetail.vue         |  2 +-
+ src/pages/order/OrderConfirm.vue        | 21 +++++---
+ src/pages/order/OrderList.vue           |  2 -
+ src/store/module/movie.js               |  1 -
+ src/store/module/order.js               |  2 -
+ 7 files changed, 17 insertions(+), 113 deletions(-)
+8291231 bug修复
+ src/pages/order/OrderConfirm.vue | 20 +++++++++++++-------
+ src/pages/order/OrderList.vue    | 14 +++++++++-----
+ src/store/module/order.js        |  4 +++-
+ 3 files changed, 25 insertions(+), 13 deletions(-)
+e4258c2 bug修复
+ src/pages/home/components/MovieList.vue | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+41cf709 端口修改
+ config/index.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+66c2b78 Update movie.js
+ src/store/module/movie.js | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+e3cc354 端口配置修改
+ config/index.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+7f5d54a Merge branch 'dev' of https://github.com/SYSU-BronzeTiki/BronzeTiki-FE into dev
+95f9432 首页bug更新
+ src/pages/home/components/MovieList.vue | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+2aa1f5f 修复详情显示bug
+ src/pages/movie/MovieDetail.vue | 25 ++++++++++++++++---------
+ 1 file changed, 16 insertions(+), 9 deletions(-)
+a83a5e9 订单静态测试文件
+ static/mock/order-list.json | 29 +++++++++++++++++++++++++++++
+ static/mock/order.json      | 19 +++++++++++++++++++
+ 2 files changed, 48 insertions(+)
+d82e6a6 修改ajax请求API
+ src/store/module/movie.js |  9 +++++----
+ src/store/module/order.js | 29 +++++++++++++++++++++--------
+ 2 files changed, 26 insertions(+), 12 deletions(-)
+c74cc67 完善订单组件
+ src/pages/order/OrderConfirm.vue | 61 ++++++++++++++++++-----------
+ src/pages/order/OrderDetail.vue  |  7 +++-
+ src/pages/order/OrderList.vue    | 83 +++++++++++++++++++++++++++++-----------
+ 3 files changed, 105 insertions(+), 46 deletions(-)
+b7dcd7b 完善电影组件
+ src/pages/movie/MovieDetail.vue |  2 +-
+ src/pages/movie/Screen.vue      | 22 +++++++++++++---------
+ src/pages/movie/Seat.vue        | 26 ++++++++++++++++++--------
+ 3 files changed, 32 insertions(+), 18 deletions(-)
+a815100 完善首页组件
+ src/pages/home/Home.vue | 1 -
+ 1 file changed, 1 deletion(-)
+ba43561 删除无效组件
+ src/pages/order/components/PasswordInput.vue | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+15196ed 删除无效组件
+ src/pages/order/components/OrderConfirm.vue | 124 ----------------------------
+ src/pages/order/components/OrderDetial.vue  |  15 ----
+ src/pages/order/components/OrderList.vue    | 113 -------------------------
+ src/router/index.js                         |   8 --
+ static/mock/pay-result.json                 |  12 +--
+ 5 files changed, 6 insertions(+), 266 deletions(-)
+7e4afcf Update router
+ src/router/index.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ab3c13d 修改路由信息
+ src/router/index.js | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+d418886 更新组件
+ src/pages/home/components/MovieList.vue | 6 ++----
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+a68d75b 更新路由表
+ src/router/index.js | 20 ++++++++++++++++----
+ 1 file changed, 16 insertions(+), 4 deletions(-)
+05262ad 更新store
+ src/store/module/movie.js | 21 ++++++---------------
+ src/store/module/order.js | 18 +++++++++++++++---
+ 2 files changed, 21 insertions(+), 18 deletions(-)
+85ce21f 更新静态测试文件
+ static/mock/order-confirm.json | 16 +++++++++++-----
+ static/mock/pay-result.json    |  8 ++++++++
+ static/mock/recommend.json     |  8 ++++----
+ static/mock/screen.json        | 42 +++++++++++++++++++++---------------------
+ static/mock/seat.json          |  2 +-
+ 5 files changed, 45 insertions(+), 31 deletions(-)
+9a3d9ca 删除冗余组件
+ src/pages/order/PasswordInput.vue | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+e98b528 完善订单组件
+ src/pages/order/OrderConfirm.vue | 144 ++++++++++++++++++++++++++++++---------
+ src/pages/order/OrderList.vue    |   7 +-
+ 2 files changed, 117 insertions(+), 34 deletions(-)
+951b720 完善电影场次座次组件
+ src/pages/movie/Screen.vue | 103 +++++++++++++++++++++++++++++++++++++++------
+ src/pages/movie/Seat.vue   |  24 +++++++----
+ 2 files changed, 105 insertions(+), 22 deletions(-)
+9438e95 完善首页组件
+ src/pages/home/Home.vue | 12 ++++++++----
+ 1 file changed, 8 insertions(+), 4 deletions(-)
+936d759 更新日期格式化方法
+ src/common/utils/DateFormat.js | 32 ++++++++++++++++++++++++++++++++
+ 1 file changed, 32 insertions(+)
+a0b778d 更新数据处理方法
+ src/common/utils/DataProcess.js | 5 +++++
+ 1 file changed, 5 insertions(+)
+f754817 更新代理表
+ config/index.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+4fadb19 首页、详情组件与后端接口对接
+ config/index.js                         | 9 ++++++++-
+ src/pages/home/Home.vue                 | 3 +--
+ src/pages/home/components/MovieList.vue | 7 ++++---
+ src/router/index.js                     | 2 +-
+ src/store/module/movie.js               | 9 ++++-----
+ 5 files changed, 18 insertions(+), 12 deletions(-)
+7be4cf3 Merge branch 'dev' of https://github.com/SYSU-BronzeTiki/BronzeTiki-FE into dev
+f5efd1c 更新路由信息
+ src/router/index.js | 20 ++++++++++++++------
+ 1 file changed, 14 insertions(+), 6 deletions(-)
+7400038 更新组件逻辑
+ config/index.js          | 7 +++++++
+ src/store/module/auth.js | 4 ++--
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+ff2c596 Update
+ config/index.js             |  11 ++-
+ package-lock.json           |  24 +++++
+ package.json                |   4 +-
+ src/common/BottomNav.vue    |   2 +-
+ src/main.js                 |   2 +
+ src/pages/auth/SignIn.vue   | 140 ++++++++++++++++++++++++++
+ src/pages/auth/SignUp.vue   | 136 +++++++++++++++++++++++++
+ src/pages/person/Person.vue | 234 -------------------------------------------
+ src/pages/signin/SignIn.vue | 110 ---------------------
+ src/pages/signup/SignUp.vue | 122 -----------------------
+ src/pages/user/UserInfo.vue | 236 ++++++++++++++++++++++++++++++++++++++++++++
+ src/store/index.js          |  14 +++
+ src/store/module/auth.js    |  50 ++++++++++
+ static/mock/seat.json       |  13 ++-
+ 14 files changed, 624 insertions(+), 474 deletions(-)
+e16852f 更新movie组件
+ src/pages/movie/MovieDetail.vue |   1 -
+ src/pages/movie/Screen.vue      |   2 +-
+ src/pages/movie/Seat.vue        | 113 +++++++++++++++++++++++++++++++++++-----
+ 3 files changed, 100 insertions(+), 16 deletions(-)
+b8dd800 Merge branch 'dev' of https://github.com/SYSU-BronzeTiki/BronzeTiki-FE into dev
+87003f5 更新路由信息
+ src/router/index.js | 5 ++---
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+773b64c Merge branch 'dev' of https://github.com/SYSU-BronzeTiki/BronzeTiki-FE into dev
+c28e93d 静态测试配置
+ config/index.js | 9 ++++++++-
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+cba416d 修改路由文件
+ src/router/index.js | 47 +++++++++++++++++++++++++++++++++--------------
+ 1 file changed, 33 insertions(+), 14 deletions(-)
+30221bc 增加搜索组件
+ src/pages/search/Search.vue | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+d7f395a 增加静态测试文件
+ static/mock/detail.json    | 15 ++++++++++++
+ static/mock/recommend.json | 28 ++++++++++++++++++++++
+ static/mock/screen.json    | 60 ++++++++++++++++++++++++++++++++++++++++++++++
+ static/mock/seat.json      | 10 ++++++++
+ 4 files changed, 113 insertions(+)
+32a3559 完善订单组件
+ src/pages/order/OrderConfirm.vue            | 124 ++++++++++++++++++++++++++++
+ src/pages/order/OrderDetail.vue             |  15 ++++
+ src/pages/order/OrderList.vue               | 113 +++++++++++++++++++++++++
+ src/pages/order/PasswordInput.vue           |   0
+ src/pages/order/components/OrderConfirm.vue |   4 +-
+ 5 files changed, 255 insertions(+), 1 deletion(-)
+82c56df 完善电影页面组件
+ src/pages/movie/Movie.Vue                  |  25 -----
+ src/pages/movie/MovieDetail.vue            | 141 ++++++++++++++++++++++++
+ src/pages/movie/Screen.vue                 | 126 ++++++++++++++++++++++
+ src/pages/movie/Seat.vue                   | 166 +++++++++++++++++++++++++++++
+ src/pages/movie/components/MovieDetail.vue | 113 --------------------
+ src/pages/movie/components/Screen.vue      |  82 --------------
+ src/pages/movie/components/Seat.vue        | 133 -----------------------
+ 7 files changed, 433 insertions(+), 353 deletions(-)
+4bf429f 完善首页组件
+ src/pages/home/Home.vue                 | 26 +++++++++++-
+ src/pages/home/components/BottomNav.vue | 34 ---------------
+ src/pages/home/components/Header.vue    |  4 +-
+ src/pages/home/components/MovieList.vue | 49 ++++++++++++----------
+ src/pages/home/components/Screen.vue    | 42 -------------------
+ src/pages/home/components/Seat.vue      | 73 ---------------------------------
+ 6 files changed, 54 insertions(+), 174 deletions(-)
+6aa450d 个人页面增加底部导航栏
+ package-lock.json            | 4204 +++++++++++++++++++++---------------------
+ src/common/BottomNav.vue     |   34 +
+ src/components/BottomNav.vue |   34 -
+ src/pages/person/Person.vue  |  189 +-
+ 4 files changed, 2234 insertions(+), 2227 deletions(-)
+15b0e05 创建search组件
+ src/pages/search/Search.vue | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+0c2805c 更新底部导航栏组件
+ src/components/BottomNav.vue | 8 ++++++--
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+f0c7d6d 更新reset.css
+ src/assets/styles/reset.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+82df75b 删除底部导航栏组件
+ src/App.vue | 11 -----------
+ 1 file changed, 11 deletions(-)
+4eb6941 更新movie组件
+ src/pages/movie/Movie.Vue                  |  72 +++-------------
+ src/pages/movie/components/MovieDetail.vue | 113 ++++++++++++++++++++++++
+ src/pages/movie/components/Screen.vue      |  82 ++++++++++++++++++
+ src/pages/movie/components/Seat.vue        | 133 +++++++++++++++++++++++++++++
+ 4 files changed, 339 insertions(+), 61 deletions(-)
+e28578d 更新home组件
+ src/pages/home/Home.vue                 | 11 +++--
+ src/pages/home/components/BottomNav.vue | 34 ++++++++++++++++
+ src/pages/home/components/Header.vue    |  5 ++-
+ src/pages/home/components/List.vue      |  2 +-
+ src/pages/home/components/MovieList.vue | 72 +++++++++++++++++++++++++++++++++
+ 5 files changed, 118 insertions(+), 6 deletions(-)
+dac3007 更新order组件
+ src/pages/order/Order.vue                    |  22 +++++
+ src/pages/order/components/OrderConfirm.vue  | 122 +++++++++++++++++++++++++++
+ src/pages/order/components/OrderDetial.vue   |  15 ++++
+ src/pages/order/components/OrderList.vue     | 113 +++++++++++++++++++++++++
+ src/pages/order/components/PasswordInput.vue |   0
+ 5 files changed, 272 insertions(+)
+819664d Merge branch 'dev' of https://github.com/SYSU-BronzeTiki/BronzeTiki-FE into dev
+16bbfbd 更新路由文件
+ src/router/index.js | 7 ++++++-
+ 1 file changed, 6 insertions(+), 1 deletion(-)
+25c187c 更新路由文件
+ src/router/index.js | 5 +++++
+ 1 file changed, 5 insertions(+)
+abe81b2 增加影片详情页面
+ src/pages/movie/Movie.Vue | 68 ++++++++++++++++++++++++++++++++++++++++++++---
+ 1 file changed, 65 insertions(+), 3 deletions(-)
+6aa9353 更新底部栏样式
+ src/components/BottomNav.vue | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+e69c0d9 更新main,js
+ src/main.js | 1 +
+ 1 file changed, 1 insertion(+)
+2269682 增加电影详情页面
+ src/pages/movie/Movie.Vue | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+f360245 更新Seat组件
+ src/pages/home/components/Seat.vue | 73 ++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 73 insertions(+)
+55eb600 更新Screen组件
+ src/pages/home/components/Screen.vue | 42 ++++++++++++++++++++++++++++++++++++
+ 1 file changed, 42 insertions(+)
+3aac140 更新列表界面
+ src/pages/home/components/List.vue | 52 +++++++-------------------------------
+ 1 file changed, 9 insertions(+), 43 deletions(-)
+cc4a159 更新iconfront
+ src/assets/styles/iconfont.css           |  20 +++++++++++++++-----
+ src/assets/styles/iconfont.js            |   2 ++
+ src/assets/styles/iconfont/iconfont.eot  | Bin 5436 -> 6880 bytes
+ src/assets/styles/iconfont/iconfont.svg  |  15 +++++++++++++++
+ src/assets/styles/iconfont/iconfont.ttf  | Bin 5268 -> 6712 bytes
+ src/assets/styles/iconfont/iconfont.woff | Bin 3520 -> 4188 bytes
+ 6 files changed, 32 insertions(+), 5 deletions(-)
+69eb0fb 增加底部导航栏
+ src/App.vue                  | 18 +++++++++++++++---
+ src/components/BottomNav.vue | 30 ++++++++++++++++++++++++++++++
+ 2 files changed, 45 insertions(+), 3 deletions(-)
+9c13f02 创建用户个人中心组件
+ src/pages/home/components/List.vue | 87 +++++++++++++++++++-------------------
+ src/pages/person/Person.vue        |  4 +-
+ 2 files changed, 47 insertions(+), 44 deletions(-)
+be57385 首页顶部重新布局
+ src/pages/home/Home.vue              | 21 +++------------------
+ src/pages/home/components/Header.vue | 31 +++++++++++++++++++------------
+ 2 files changed, 22 insertions(+), 30 deletions(-)
+d9b36b6 修改页面背景颜色预设值
+ src/assets/styles/reset.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+9b3de37 Update README
+ README.md | 13 +++++++++----
+ 1 file changed, 9 insertions(+), 4 deletions(-)
+4b3e043 Update README
+ README.md                   | 12 ++++++++++--
+ src/pages/person/Person.vue | 11 +++++++++++
+ src/router/index.js         |  7 ++++++-
+ 3 files changed, 27 insertions(+), 3 deletions(-)
+7207c82 Update README
+ README.md | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+33f08db Update README
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+993df57 Update README
+ README.md | 14 +++++++-------
+ 1 file changed, 7 insertions(+), 7 deletions(-)
+7da264f Update README
+ README.md | 15 +++++++++++++++
+ 1 file changed, 15 insertions(+)
+e632ad3 更新首页布局
+ src/pages/home/Home.vue              |   4 +-
+ src/pages/home/components/Header.vue |  12 ++--
+ src/pages/home/components/List.vue   | 106 ++++++++++++++++++++++++++++++++---
+ 3 files changed, 105 insertions(+), 17 deletions(-)
+a541dd8 增加iconfont
+ src/assets/styles/iconfont.css           |  51 +++++++++++++++++++
+ src/assets/styles/iconfont/iconfont.eot  | Bin 0 -> 5436 bytes
+ src/assets/styles/iconfont/iconfont.svg  |  84 +++++++++++++++++++++++++++++++
+ src/assets/styles/iconfont/iconfont.ttf  | Bin 0 -> 5268 bytes
+ src/assets/styles/iconfont/iconfont.woff | Bin 0 -> 3520 bytes
+ src/main.js                              |   1 +
+ 6 files changed, 136 insertions(+)
+649d8b8 首页部分
+ package-lock.json                    | 51 +++++++++++++++++++++++++++++++-----
+ package.json                         |  1 +
+ src/assets/variables.styl            |  1 +
+ src/main.js                          |  3 +++
+ src/pages/home/Home.vue              | 22 +++++++++++++---
+ src/pages/home/components/Header.vue | 34 ++++++++++++++----------
+ src/pages/home/components/List.vue   | 39 +++++++++++++++++++++++++++
+ 7 files changed, 127 insertions(+), 24 deletions(-)
+ba9ee7a 创建首页头部子组件
+ src/pages/home/components/Header.vue | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
+43686ea 创建首页组件
+ src/pages/home/Home.vue | 10 +++++++---
+ 1 file changed, 7 insertions(+), 3 deletions(-)
+1fd0c45 修改reset.css
+ package-lock.json           | 111 ++++++++++++++++++++++++++++++++------------
+ package.json                |   2 +
+ src/assets/styles/reset.css |  73 ++++++++++-------------------
+ 3 files changed, 109 insertions(+), 77 deletions(-)
+bf3f9e3 项目结构初始化
+ index.html                    |   2 +-
+ package-lock.json             |   5 ++
+ package.json                  |   1 +
+ src/App.vue                   |  11 +--
+ src/assets/logo.png           | Bin 6849 -> 0 bytes
+ src/assets/styles/border.css  | 182 ++++++++++++++++++++++++++++++++++++++++++
+ src/assets/styles/reset.css   |  48 +++++++++++
+ src/components/HelloWorld.vue | 113 --------------------------
+ src/main.js                   |   6 ++
+ src/pages/home/Home.vue       |  15 ++++
+ src/router/index.js           |   6 +-
+ 11 files changed, 263 insertions(+), 126 deletions(-)
+fccba0b 项目初始化
+ .babelrc                      |    12 +
+ .editorconfig                 |     9 +
+ .eslintignore                 |     4 +
+ .eslintrc.js                  |    29 +
+ .gitignore                    |    14 +
+ .postcssrc.js                 |    10 +
+ README.md                     |    22 +-
+ build/build.js                |    41 +
+ build/check-versions.js       |    54 +
+ build/logo.png                |   Bin 0 -> 6849 bytes
+ build/utils.js                |   101 +
+ build/vue-loader.conf.js      |    22 +
+ build/webpack.base.conf.js    |    92 +
+ build/webpack.dev.conf.js     |    95 +
+ build/webpack.prod.conf.js    |   145 +
+ config/dev.env.js             |     7 +
+ config/index.js               |    76 +
+ config/prod.env.js            |     4 +
+ index.html                    |    12 +
+ package-lock.json             | 11627 ++++++++++++++++++++++++++++++++++++++++
+ package.json                  |    73 +
+ src/App.vue                   |    23 +
+ src/assets/logo.png           |   Bin 0 -> 6849 bytes
+ src/components/HelloWorld.vue |   113 +
+ src/main.js                   |    15 +
+ src/pages/home/Home.vue       |     0
+ src/pages/person/Person.vue   |     0
+ src/router/index.js           |    15 +
+ static/.gitkeep               |     0
+ 29 files changed, 12614 insertions(+), 1 deletion(-)
