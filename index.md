@@ -6,17 +6,17 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1 [About（项目规划）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/About.md)
+* 1 [About（项目规划）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/About)
 
-* 2 [Team profile（团队组建）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Team%20profile.md)
+* 2 [Team profile（团队组建）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Team%20profile)
 
-* 3 [Investigation（项目前期调研）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Investigation.md)
+* 3 [Investigation（项目前期调研）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Investigation)
 
-* 4 [Vision（项目愿景）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Vision.md)
+* 4 [Vision（项目愿景）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Vision)
 
-* 5 [Product backlog（产品特性）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Product%20Backlog.md)
+* 5 [Product backlog（产品特性）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Product%20Backlog)
 
-* 6 [Requirement specification（需求规格说明）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md)
+* 6 [Requirement specification（需求规格说明）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification)
 
   + 6.1 [Usecase Diagram（用例图）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Requirement%20specification.md#23-%E7%94%A8%E4%BE%8B%E5%88%86%E6%9E%90)
 
