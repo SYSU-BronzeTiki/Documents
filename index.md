@@ -67,7 +67,7 @@ layout: default
 
 * 11 课程格子建模练习
 
-  + 11.1 [课程格子应用文档](./doc/Course-Grid-Doc-Exercies.md)
+  + 11.1 [课程格子应用文档](./doc/Course-Grid-Doc-Exercise.md)
 
   + 11.2 [建模要求](./doc/Course-Grid-Doc-Exercise.md)
 

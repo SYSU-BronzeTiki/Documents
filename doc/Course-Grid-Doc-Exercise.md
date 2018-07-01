@@ -8,25 +8,25 @@
 
 截图1：在课程格子应用完成注册以及个人信息的填写后，可以使用课程格子的添加课程的功能
 
-![screenshot1](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/课程格子文档/screenshot1.jpg)
+![screenshot1](../image/课程格子文档/screenshot1.jpg)
 
 截图2：可以选择通过教务导入或者是自由添加来导入课程，教务导入需要提供需要导入的学期，教务的学号和密码，并且需要教务系统可以正常接入才能正确获取到课程信息。
 
-![screenshot2](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/课程格子文档/screenshot2.jpg)
+![screenshot2](../image/课程格子文档/screenshot2.jpg)
 
 截图3：如果无法通过教务导入，则可以通过自由添加功能来添加课程信息。课程格子会根据个人的信息推荐相关的课程，如果在推荐的课程中没有找到需要的课程信息，则可以通过搜索课程名或老师名来加以查找，如果还是没有找到所需课程，可以通过手动创建来进行课程添加。
 
-![screenshot3](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/课程格子文档/screenshot3.jpg)
+![screenshot3](../image/课程格子文档/screenshot3.jpg)
 
 截图4：手动创建课程表需要输入课程名称，授课教师姓名，选择上课时间，上课地点，如果上课时间不规律，还可以手动添加上课时间。
 
-![screenshot5](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/课程格子文档/screenshot5.jpg)
+![screenshot5](../image/课程格子文档/screenshot5.jpg)
 
-![screenshot6](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/课程格子文档/screenshot6.jpg)
+![screenshot6](../image/课程格子文档/screenshot6.jpg)
 
 截图5：课程添加成功后，系统会生成课表。
 
-![screenshot7](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/课程格子文档/screenshot7.jpg)
+![screenshot7](../image/课程格子文档/screenshot7.jpg)
 
 
 
