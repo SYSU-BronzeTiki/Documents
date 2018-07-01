@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-更新3
+更新4
 
 # [](#TOC)目录
 
@@ -29,7 +29,7 @@ layout: default
 
   + 6.5 [System Sequence Diagram（功能模型）](./doc/Requirement-specification.md#26-%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9E%8B)
 
-  + 6.6 [Supplementary Requirements（补充需求)](./doc/%E8%A1%A5%E5%85%85%E6%80%A7%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E.md)
+  + 6.6 [Supplementary Requirements（补充需求)](./doc/Supplementary-Requirements.md)
 
 * 7 [Design（设计）](./doc/Design.md)
 
@@ -51,11 +51,11 @@ layout: default
 
     - 7.5.2 用例2
 
-* 8 [Production specifications and guidelines（生产规范和指南）](./doc/Production%20specifications%20and%20guidelines.md)
+* 8 [Production specifications and guidelines（生产规范和指南）](./doc/Production-specifications-and-guidelines.md)
 
-  + 8.1 [代码规范](./doc/Production%20specifications%20and%20guidelines.md#2-%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
+  + 8.1 [代码规范](./doc/Production-specifications-and-guidelines.md#2-%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83)
 
-  + 8.2 [REST API规范](./doc/Production%20specifications%20and%20guidelines.md#3-rest-api%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83)
+  + 8.2 [REST API规范](./doc/Production-specifications-and-guidelines.md#3-rest-api%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83)
 
   + 8.3 [解释框架目录设计与逻辑架构与 ECB 的关系 ](./doc/relationship.md)
 
@@ -71,7 +71,7 @@ layout: default
 
   + 11.2 [建模要求](./doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E5%BB%BA%E6%A8%A1%E8%A6%81%E6%B1%82)
 
-  + 11.3 [建模者答案与评价](./doc/%E5%BB%BA%E6%A8%A1%E8%80%85URL%E5%8F%8A%E8%AF%84%E4%BB%B7.md)
+  + 11.3 [建模者答案与评价](./doc/建模者url与评价.md)
 
 * Final Report
 

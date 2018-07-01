@@ -4,7 +4,7 @@
 
 ### 1.1 页面跳转关系图
 
-![stage_change](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/state_change.png)
+![stage_change](../image/state_change.png)
 
 ### 1.2 页面UI设计
 
@@ -19,29 +19,29 @@ by Johnyvino](https://www.uplabs.com/posts/movie-ticket-lovers-family-friends-se
 
 #### 1.2.1 影片资讯列表
 
-![movies_list](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/movies_list.png)
+![movies_list](../image/UI/movies_list.png)
 
 #### 1.2.2 放映时间
 
-![time_select](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/time_select.png)
+![time_select](../image/UI/time_select.png)
 
 #### 1.2.3 影院选择
 
-![cinema_select](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/cinema_select.png)
+![cinema_select](../image/UI/cinema_select.png)
 
 #### 1.2.4 座位选择
 
-![seat_select](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/seat_select.png)
+![seat_select](../image/UI/seat_select.png)
 
 #### 1.2.5 用户个人中心
 
-![personal_info](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/UI/personal_info.png)
+![personal_info](../image/UI/personal_info.png)
 
 ## 2. 数据库设计
 
 ### 2.1 数据库E-R逻辑模型
 
-![database-model](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/database/Logic-ER.png)
+![database-model](../image/database/Logic-ER.png)
 
 ### 2.2 第三方评审结果
 

@@ -44,8 +44,8 @@ SAD引用了补充规格说明文档，可以从中发现记录于因素表中�
 
 ## 4. 逻辑视图
 
-![logic](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/SAD/logic.png)
+![logic](../image/SAD/logic.png)
 
 ## 5. 物理视图
 
-![physic](https://github.com/SYSU-BronzeTiki/Documents/blob/master/image/SAD/physic.png)
+![physic](../image/SAD/physic.png)
