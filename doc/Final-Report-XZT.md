@@ -30,9 +30,7 @@
 
 ## 3. 个人分支的GIT统计报告
 
-* [前端代码仓库git-log](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Git-Log/FrontEnd-git-log-xzt.txt)
-
-* [项目文档git-log](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/Git-Log/Documents-git-log-xzt.txt)
+![前端代码仓库Contributors](../image/Final-Report/FE-Contributors.png)
 
 ## 4. 自认为最得意/或有价值/或有苦劳的工作清单
 

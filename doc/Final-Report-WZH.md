@@ -28,7 +28,7 @@
 
 ## 个人分支的git报告
 
-![wuzihui_contribution](https://raw.githubusercontent.com/SYSU-BronzeTiki/Documents/master/image/contribution/wuzihui_contribution.png)
+![wuzihui_contribution](../image/Final-Report/FE-Contributors.png)
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单
 
