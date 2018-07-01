@@ -21,13 +21,13 @@ layout: default
 
   + 6.1 [Usecase Diagram（用例图）](./doc/Requirement-specification.md#23-%E7%94%A8%E4%BE%8B%E5%88%86%E6%9E%90)
 
-  + 6.2 [Use Cases（用例）](./doc/Requirement%20specification.md#231-%E4%BD%BF%E7%94%A8-ui-free%E9%A3%8E%E6%A0%BC%E7%BC%96%E5%88%B6%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A8%E6%88%B7%E7%9B%AE%E6%A0%87%E7%BA%A7%E5%88%AB%E7%94%A8%E4%BE%8B)
+  + 6.2 [Use Cases（用例）](./doc/Requirement-specification.md#231-%E4%BD%BF%E7%94%A8-ui-free%E9%A3%8E%E6%A0%BC%E7%BC%96%E5%88%B6%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A8%E6%88%B7%E7%9B%AE%E6%A0%87%E7%BA%A7%E5%88%AB%E7%94%A8%E4%BE%8B)
 
-  + 6.3 [Domiian Model（领域模型）](./doc/Requirement%20specification.md#24-%E9%A2%86%E5%9F%9F%E5%BB%BA%E6%A8%A1)
+  + 6.3 [Domain Model（领域模型）](./doc/Requirement-specification.md#24-%E9%A2%86%E5%9F%9F%E5%BB%BA%E6%A8%A1)
 
-  + 6.4 [State Model（状态模型）](./doc/Requirement%20specification.md#25-%E7%8A%B6%E6%80%81%E6%A8%A1%E5%9E%8B)
+  + 6.4 [State Model（状态模型）](./doc/Requirement-specification.md#25-%E7%8A%B6%E6%80%81%E6%A8%A1%E5%9E%8B)
 
-  + 6.5 [System Sequence Diagram（功能模型）](./doc/Requirement%20specification.md#26-%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9E%8B)
+  + 6.5 [System Sequence Diagram（功能模型）](./doc/Requirement-specification.md#26-%E7%B3%BB%E7%BB%9F%E5%8A%9F%E8%83%BD%E6%A8%A1%E5%9E%8B)
 
   + 6.6 [Supplementary Requirements（补充需求)](./doc/%E8%A1%A5%E5%85%85%E6%80%A7%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E.md)
 
