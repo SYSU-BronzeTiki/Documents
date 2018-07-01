@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-更新4
+更新6
 
 # [](#TOC)目录
 
@@ -67,11 +67,11 @@ layout: default
 
 * 11 课程格子建模练习
 
-  + 11.1 [课程格子应用文档](./doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90)
+  + 11.1 [课程格子应用文档](./doc/Course-Grid-Doc-Exercies.md)
 
-  + 11.2 [建模要求](./doc/%E8%AF%BE%E7%A8%8B%E6%A0%BC%E5%AD%90%E6%96%87%E6%A1%A3%E7%BB%83%E4%B9%A0.md#%E5%BB%BA%E6%A8%A1%E8%A6%81%E6%B1%82)
+  + 11.2 [建模要求](./doc/Course-Grid-Doc-Exercise.md)
 
-  + 11.3 [建模者答案与评价](./doc/建模者url与评价.md)
+  + 11.3 [建模者答案与评价](./doc/Model-Answer-URL.md)
 
 * Final Report
 
