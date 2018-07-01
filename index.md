@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-更新6
+更新7
 
 # [](#TOC)目录
 
@@ -69,7 +69,7 @@ layout: default
 
   + 11.1 [课程格子应用文档](./doc/Course-Grid-Doc-Exercise.md)
 
-  + 11.2 [建模要求](./doc/Course-Grid-Doc-Exercise.md)
+  + 11.2 [建模要求](../doc/Course-Grid-Doc-Exercise.md#%E5%BB%BA%E6%A8%A1%E8%A6%81%E6%B1%82)
 
   + 11.3 [建模者答案与评价](./doc/Model-Answer-URL.md)
 
