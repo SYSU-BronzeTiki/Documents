@@ -6,19 +6,19 @@ layout: default
 
 &nbsp;&nbsp; 
 
-* 1 [About（项目规划）](./doc/About)
+* 1 [About（项目规划）](./doc/About.md)
 
 * 2 [Team profile（团队组建）](./doc/Team-profile.md)
 
 * 3 [Investigation（项目前期调研）](./doc/Investigation.md)
 
-* 4 [Vision（项目愿景）](./doc/Vision)
+* 4 [Vision（项目愿景）](./doc/Vision.md)
 
-* 5 [Product backlog（产品特性）](./doc/Product%20Backlog)
+* 5 [Product backlog（产品特性）](./doc/Product-Backlog.md)
 
-* 6 [Requirement specification（需求规格说明）](./doc/Requirement%20specification)
+* 6 [Requirement specification（需求规格说明）](./doc/Requirement-specification.md)
 
-  + 6.1 [Usecase Diagram（用例图）](./doc/Requirement%20specification.md#23-%E7%94%A8%E4%BE%8B%E5%88%86%E6%9E%90)
+  + 6.1 [Usecase Diagram（用例图）](./doc/Requirement-specification.md#23-%E7%94%A8%E4%BE%8B%E5%88%86%E6%9E%90)
 
   + 6.2 [Use Cases（用例）](./doc/Requirement%20specification.md#231-%E4%BD%BF%E7%94%A8-ui-free%E9%A3%8E%E6%A0%BC%E7%BC%96%E5%88%B6%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A8%E6%88%B7%E7%9B%AE%E6%A0%87%E7%BA%A7%E5%88%AB%E7%94%A8%E4%BE%8B)
 
