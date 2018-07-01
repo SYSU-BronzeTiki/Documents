@@ -52,16 +52,15 @@
 
 #### 2.3.1 使用 UI-free风格编制一个完整的用户目标级别用例
 
-[Full use case](../doc/Use%20Cases/UC1(full).md)
+[Full use case](../doc/Use-Cases/UC1-full.md)
 
 #### 2.3.2 编制一些非正式的 casual 用例
 
-[Casual use cases](..doc/Use%20Cases/CasualUseCaseAndBriefUseCase.md)
+[Casual use cases](../doc/Use-Cases/CasualUseCaseAndBriefUseCase.md)
 
 #### 2.3.3 编制一些brief的用例
 
-[Brief use case](../doc/Requirement%20specification.md#231-%E4%BD%BF%E7%94%A8-ui-free%E9%A3%8E%E6%A0%BC%E7%BC%96%E5%88%B6%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E7%94%A8%E6%88%B7%E7%9B%AE%E6%A0%87%E7%BA%A7%E5%88%AB%E7%94%A8%E4%BE%8B)
-
+[Brief use case](../doc/Use-Cases/CasualUseCaseAndBriefUseCase.md)
 
 
 ### 2.4 领域建模
