@@ -12,7 +12,7 @@
 
 ## 文档目录-1
 
-* [安装部署说明]((./doc/Final-Docs/Deployment.md)
+* [安装部署说明](./doc/Final-Docs/Deployment.md)
 * [软件需求规格说明书](./doc/Final-Docs/Requirement.md)
 * [软件设计文档](./doc/Final-Docs/Design.md)
 * [用户手册](./doc/Final-Docs/UserManual.md)
