@@ -10,7 +10,15 @@
 
 ---
 
-## 文档目录
+## 文档目录-1
+
+* [安装部署说明]((./doc/Final-Docs/Deployment.md)
+* [软件需求规格说明书](./doc/Final-Docs/Requirement.md)
+* [软件设计文档](./doc/Final-Docs/Design.md)
+* [用户手册](./doc/Final-Docs/UserManual.md)
+* [小组分工与贡献率说明](./doc/Final-Docs/Contributor.md)
+
+## 文档目录-2
 
 * 1 [About（项目规划）](https://github.com/SYSU-BronzeTiki/Documents/blob/master/doc/About.md)
 
