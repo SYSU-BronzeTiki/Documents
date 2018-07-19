@@ -126,9 +126,82 @@
 
 ### 2.1 技术选型
 
+后端采用的技术栈：
+
+* Flask：一款python的Web后端框架
+
+    Flask 是一个开源的Python实现的Web开发微框架。 Flask 旨在保持核心的简单而易于扩展，可以灵活选择数据库等扩展功能。
+
+* MySQL：后端数据库
+
+    MySQL 是一个关系型数据库管理系统。 MySQL 是开源的，使用标准的SQL数据语言形式，支持Python语言，是最流行的Web应用关系数据库管理系统软件。
+
+* SQLAlchemy：后端采用的ORM(对象关系映射)
+
+    SQLAlchemy 是Python编程语言下的一款ORM框架。框架建立在数据库API之上，使用关系对象映射进行数据库操作，即将对象转换成SQL再执行SQL获取结果。 Flask-SQLAlchemy 是 Flask 的 SQLAlchemy 扩展。
+
 ### 2.2 架构设计
+
+后端将模型、视图、控制进行分离，采用了基础的MVC组织方式。
+
+Model部分，数据库相关的代码在model.py文件中，包括各个关系模型的类，Flask的ORM模型指定为SQLAlchemy以及其他技术细节等。连接数据库的配置在config.py文件中，指明了Web应用与MySQL的连接细节。
+
+View部分是前端的工作，代码在前端build之后的dist文件夹之中。
+
+Control部分，集成在app.py文件中，定义了后端的路由接口和业务逻辑。
+
+数据库关系模型设计ER图
+
+![ER](ER.png)
 
 ### 2.3 模块设计
 
+根据后端的路由接口定义，业务逻辑可分为以下几块
+
+├─/<path>：导向前端路由(path非api时)
+├─api：存放所有的接口定义
+│  ├─comment：评论接口
+│  │     POST：提交评论HTTP方法
+│  │
+│  ├─movies：电影接口
+│  │     movieId：
+│  │         GET：获取movieId的电影详情HTTP方法
+│  ├─screens：场次接口
+│  │     movieId：
+│  │         GET：获取movieId的电影场次HTTP方法
+│  ├─seats：座位接口
+│  │     screenId：
+│  │         GET：获取screenId的场次座位HTTP方法
+│  ├─orders：订单相关接口
+│  │  │  /：不指定orderId订单接口
+│  │  │      GET：获取所有订单HTTP方法
+│  │  │      POST：新建订单HTTP方法
+│  │  └─ orderId：订单详情接口
+│  │         GET：获取orderId的订单HTTP方法
+│  │         PATCH：支付orderId的订单HTTP方法
+│  ├─myMovies： 
+│  │          GET：获取所有订单的电影HTTP方法
+│  ├─search：搜索接口
+│  │          GET：查询搜索电影HTTP方法
+│  │
+│  ├─state：用户在线状态接口
+│  │          GET/POST：获取用户在线状态
+│  └─users：用户个人中心相关接口
+│      │  register：注册相关的接口
+│      │      POST：注册HTTP方法
+│      │  login：登录相关的接口
+│      │      POST：登录HTTP方法
+│      │      DELETE：登出HTTP方法
+│      │  password：用户密码接口
+│      │      PATCH：修改用户密码HTTP方法
+│      │  payPassword：用户支付密码接口
+│      │      PATCH：修改用户支付密码HTTP方法
+│      │  avatar：用户头像接口
+│      │      POST：修改用户头像HTTP方法
+│      └─ nicknameAndDescription：用户个人信息接口
+│             PATCH：修改用户个人信息HTTP方法
+
 ### 2.4 设计模式
+
+MVC模式：模型、视图、控制分离，使得整个代码框架逻辑清晰。
 
