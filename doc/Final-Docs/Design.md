@@ -158,6 +158,7 @@ Control部分，集成在app.py文件中，定义了后端的路由接口和业�
 
 根据后端的路由接口定义，业务逻辑可分为以下几块
 
+```
 ├─/<path>：导向前端路由(path非api时)
 ├─api：存放所有的接口定义
 │  ├─comment：评论接口
@@ -200,6 +201,7 @@ Control部分，集成在app.py文件中，定义了后端的路由接口和业�
 │      │      POST：修改用户头像HTTP方法
 │      └─ nicknameAndDescription：用户个人信息接口
 │             PATCH：修改用户个人信息HTTP方法
+```
 
 ### 2.4 设计模式
 
