@@ -26,7 +26,7 @@ npm install
 npm run start
 
 ```
-1.5 在Chrome浏览器打开 http://locahost:8080，按F12，点击调试界面左上角切换至移动端模式。
+1.5 在Chrome浏览器打开 http://locahost:8080 ，按F12，点击调试界面左上角切换至移动端模式。
 
 ![chrome_mobile](./img/chrome_mobile.png)
 
